@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794550826152",
+    "project_id": "musicsync-ac2f6",
+    "storage_bucket": "musicsync-ac2f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794550826152:android:4e7ee615b1b2d275723e9d",
+        "android_client_info": {
+          "package_name": "np.com.suprimpoudel.flutter_music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794550826152-b83197ppftno3doup8dshl39blodj8gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTFGODz1G727IsnAvgTra3nbOyZIw_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794550826152-b83197ppftno3doup8dshl39blodj8gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
